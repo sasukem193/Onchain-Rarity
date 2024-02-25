@@ -38,14 +38,19 @@ console.log('Rarity Score:', rarityScore);
 
 
 
-Contributing
+## Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions, feature requests, or bug fixes.
 
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
+
 Inspired by the need for on-chain rarity calculations in the NFT space.
 Built with love by Your Name/Organization.
-Disclaimer
+
+## Disclaimer
+
 This software is provided as is and without any warranty, express or implied. Use at your own risk.
