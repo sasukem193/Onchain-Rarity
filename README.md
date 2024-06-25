@@ -1,7 +1,7 @@
 # OnChain Rarity 
 
 ## Overview
-This project is a protocol designed to calculate rarity on-chain for Non-Fungible Tokens (NFTs). It directly fetches metadata from the blockchain and computes a score for each trait, allowing for the ranking of NFTs based on their rarity.
+This project is a protocol designed to calculate rarity on-chain for Non-Fungible Tokens (NFTs). It directly fetches metadata from the blockchain and computes a score for each trait, allowing for the ranking of NFTs based on their rarity..
 
 ## Features
 - Fetch metadata directly from the blockchain
